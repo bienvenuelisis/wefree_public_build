@@ -1,0 +1,35 @@
+{
+    "short_name": "Wefree",
+    "name": "Wefree - Vos tickets Wi_Fi Zone via mobile money.",
+    "start_url": ".",
+    "display": "minimal-ui",
+    "background_color": "#9E0E40",
+    "theme_color": "#9E0E40",
+    "description": "ENFIN, Vos tickets wifi zone via T-money et Moov Money.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/logo192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/logo512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/transparent/logo192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/transparent/logo512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
